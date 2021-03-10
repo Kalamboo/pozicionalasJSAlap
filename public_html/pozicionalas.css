@@ -16,6 +16,7 @@ header{
 
 main{
     margin-top: 100px;
+    margin-bottom: 70px;
 }
 
 footer{
@@ -52,4 +53,8 @@ fieldset{
     position: relative;
     left: 250px;
     top: 22px;
+}
+
+#szoveg{
+    
 }
